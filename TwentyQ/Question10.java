@@ -9,7 +9,6 @@ public static boolean contains(String[] names, String element) {
             return true;
         }
     }
-
        return false;
         }
 
